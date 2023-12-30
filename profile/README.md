@@ -4,7 +4,7 @@
 CHIC는 2021년 8월 광운대학교 소프트웨어중심대학 사업단의 주도로 Student Technical Group (학생 전공동아리) 로 만들어졌습니다. 2022년 사업이 종료되었으나, 지도교수와 **운영진의 열정**으로 소모임의 형태를 계속 유지하고 있습니다. 
 
 #### 이름의 유래
-CHIC 그 자체는 알려져있다시피 우아하다는 의미를 담고 있습니다. 인간-컴퓨터상호작용 분야의 가장 저명한 학술대회인 [ACM CHI conference on Human Factors in Computing Systems](https://chi2024.acm.org/) 에서 CHI를 가져왔습니다. 그리고 모두가 함께 하는 **커뮤니티**의 성격을 강조하기 위해 Community 의 C를 결합하였습니다.
+CHIC 그 자체는 알려져있다시피 우아하다는 의미를 담고 있습니다. 하지만 실은, 인간-컴퓨터상호작용 분야의 가장 저명한 학술대회인 [ACM CHI conference on Human Factors in Computing Systems](https://chi2024.acm.org/) 에서 CHI를 가져왔습니다. 그리고 모두가 함께 하는 **커뮤니티**의 성격을 강조하기 위해 Community 의 C를 결합하였습니다.
 
 #### 발음
 CHI는 카이로 발음하기 때문에, 카이 커뮤니티로 불러도 되고, 또한 시크, 쉬크 동아리 등으로 불러도 됩니다.
