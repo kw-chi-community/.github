@@ -1,12 +1,31 @@
-## Hi there 👋
+## CHIC에 대해서
 
-<!--
+#### History
+CHIC는 2021년 8월 광운대학교 소프트웨어중심대학 사업단의 주도로 Student Technical Group (학생 전공동아리) 로 만들어졌습니다. 2022년 사업이 종료되었으나, 지도교수와 **운영진의 열정**으로 소모임의 형태를 계속 유지하고 있습니다. 
 
-**Here are some ideas to get you started:**
+#### 이름의 유래
+CHIC 그 자체는 알려져있다시피 우아하다는 의미를 담고 있습니다. 인간-컴퓨터상호작용 분야의 가장 저명한 학술대회인 [ACM CHI conference on Human Factors in Computing Systems](https://chi2024.acm.org/) 에서 CHI를 가져왔습니다. 그리고 모두가 함께 하는 **커뮤니티**의 성격을 강조하기 위해 Community 의 C를 결합하였습니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### 발음
+CHI는 카이로 발음하기 때문에, 카이 커뮤니티로 불러도 되고, 또한 시크, 쉬크 동아리 등으로 불러도 됩니다.
+
+#### 목표 및 지향점
+
+컴퓨터와 인간의 모든 접점에서, 기획, 설계, 개발을 수행하면서 전공의 실전적 지식을 함양하고, 나아가 인류에게 도움이 되는 소프트웨어를 만드는 것이 목표입니다.
+
+
+## CHIC의 활동
+
+#### 스터디
+공통의 기술 관심사에 대해 그룹으로 모여서 공부합니다.
+
+#### CHICathon
+짧은 기간 동안에 몰입하여 아이디어를 내고 프로토타입을 개발합니다.
+
+#### 프로젝트
+아이디어톤의 기획을 수 개월에 걸쳐 개발하고 실제 서비스화 합니다.
+
+#### 세미나
+현업 개발자, 지도교수님, HCC연구실의 세미나를 통해 새로운 기술을 경험하고 트렌드를 파악합니다.
+
+
